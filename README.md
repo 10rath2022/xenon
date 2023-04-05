@@ -10,6 +10,8 @@ Step1: Download Project file[signup] from github
 
 Step2: Import it in Eclipse.
 
+Step3: Import MySQLScript.sql in workbench or run cmd
+
 Requirement:
 Eclipse
 Tomcat Server 8.5
